@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=flying7eleven&show_icons=true&hide_border=true&count_private=true&include_all_commits=true", width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flying7eleven&layout=compact&hide_border=true", width="325"/> <br>
+</p>
+
 <!--
 **flying7eleven/flying7eleven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
