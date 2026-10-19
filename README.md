@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=flying7eleven&show_icons=true&hide_border=true&count_private=true&include_all_commits=true", width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flying7eleven&layout=compact&hide_border=true", width="325"/> <br>
-</p>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=flying7eleven&rank_icon=github&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=light_github)](https://github-stats-extended.vercel.app/api?username=flying7eleven&rank_icon=github&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=light_github)
 
 <!--
 **flying7eleven/flying7eleven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
